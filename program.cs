@@ -1,7 +1,7 @@
 using System;
 
 
-namespace best_fit_algorithm
+namespace RPG
 {
     public class Program
     {

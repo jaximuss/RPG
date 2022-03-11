@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace best_fit_algorithm
+namespace RPG
 {
    public class Adventure
     {
